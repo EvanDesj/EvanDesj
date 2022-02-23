@@ -5,7 +5,7 @@
 
 Welcome to my GitHub! I am a third year computer science student at McMaster University.
 
-I am currently hunting for a 4-16 month co-op starting in the summer of 2022.
+I am currently looking for a 4-16 month co-op starting in the summer of 2022.
 
 Most of my coding experience is in Python, Java and C++, and I am in the process of learning more about web development in my spare time. Feel free to reach out if you have any interests in the projects I have made or just want to <a href="https://www.linkedin.com/in/evan-desjardine" target="_blank">connect!</a></p>
 
