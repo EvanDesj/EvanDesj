@@ -5,6 +5,4 @@
 
 Welcome to my GitHub! I am a computer science graduate from McMaster University.
 
-I am currently looking for full time work.
-
-Most of my coding experience is in Python, Java and C++, along with web development in HTML, CSS, Javascript and ReactJS. All of this can be seen on display at my website: <a href="https://evan.desjardine.ca" target="_blank">evan.desjardine.ca</a>. Feel free to reach out if you are interested in any of the projects I have made or just want to <a href="https://www.linkedin.com/in/evan-desjardine" target="_blank">connect</a>!</p>
+Most of my coding experience is in Python, Java and C++, along with web development in HTML, CSS, Javascript and ReactJS. All of this can be seen on display at my website: <a href="https://evan.desjardine.ca" target="_blank">evan.desjardine.ca</a>. I am currently looking for full time work, so feel free to reach out if you are interested in any of the projects I have made or just want to <a href="https://www.linkedin.com/in/evan-desjardine" target="_blank">connect</a>!</p>
